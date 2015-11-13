@@ -1,5 +1,5 @@
 {
-    "title":"fcloud"
+    "title":"fcloud",
     "plugins":["github"],
     "pluginsConfig": {
         "github": {
