@@ -1,4 +1,5 @@
 {
+    "author":"Ansgar@fcloud"
     "plugins":["github"],
     "pluginsConfig": {
         "github": {
