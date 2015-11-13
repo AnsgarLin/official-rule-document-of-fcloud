@@ -8,4 +8,4 @@ The following chapters will focus on **code conventions** and **design guideline
 
 * **Design guideline** is for **Android**, **iOS** and **web**, which may include **color**, **component layout**, **image size**, **file naming**, **file format** and **file arrangement**.
 
-<br><br><br>Copyright © 2015 Flaming Cloud Inc. All rights reserved
+<br><br>Copyright © 2015 Flaming Cloud Inc. All rights reserved
