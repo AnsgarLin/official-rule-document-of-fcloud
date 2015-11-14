@@ -2,7 +2,7 @@
 
 This document are guidelines for improving software quality, and helping developer to work with designer.
 
-Document will be written in English and Chinese, and publish in two book. If you prefer the Chinese version, please see this link [TBD](TBD)
+Document will be written in **English** and **Chinese**, and publish in two book. If you prefer the Chinese version, please see this link [**TBD**](TBD)
 
 The following chapters will focus on **code conventions** and **design guideline**.
 
