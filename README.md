@@ -1,6 +1,6 @@
 # Introduction
 
-This document are guidelines for improving software quality, and will be written in [**English**](TBD) and [**Chinese**](TBD). The purpose of this books are helping developer to work with designer.
+This document are guidelines for improving software quality, and will be written in [**English**](TBD) and [**Chinese**](TBD). The main purpose is to help developer to work with designer.
 
 The contents will be focus on **code conventions** and **design guideline**.
 
