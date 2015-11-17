@@ -1,6 +1,4 @@
 {
-    "title":"Document of Fcloud",
-    "author":"Ansgar@fcloud",
     "plugins":["github"],
     "pluginsConfig": {
         "github": {
